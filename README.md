@@ -1,2 +1,4 @@
 # KSU-Portal
 KSU Portal is Kennesaw State University's Registration System on a hand held device.  Here are some swift files which shows some coding of our project.  Front end is Xcode, while back-end is Swift connecting to Parse.  Parse is our database for this project.  This was my group Computer Science Senior Class project.  Two people worked on the IOS part, while the rest work on the Android part.  I was the team leader for this project.  At the end of the semester, we all achieved an grade of an "A" and achieved First Place at the CS Student Exposition Fall 2015 at Kennesaw State University.  This project was a lot of fun, being able to learn how to code in Swift, and better myself with databases.  
+
+I will list some of the files, but if anyone has any questions regarding our project, contact me and I will be gladly to answer any questions.
